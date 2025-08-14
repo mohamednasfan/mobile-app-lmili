@@ -1,2 +1,2 @@
 # mobile-app-lmili
-mobile app for a resturant using kotlin
+mobile app for a finance tracking using kotlin
